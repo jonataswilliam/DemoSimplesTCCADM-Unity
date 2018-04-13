@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: bb9721d786184c141884cea0924b9f35
+timeCreated: 1473786678
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: school_interior_0
+    21300002: school_interior_1
+    21300004: school_interior_2
+    21300006: school_interior_3
+    21300008: school_interior_4
+    21300010: school_interior_5
+    21300012: school_interior_6
+    21300014: school_interior_7
+    21300016: school_interior_8
+    21300018: school_interior_9
+    21300020: school_interior_10
+    21300022: school_interior_11
+    21300024: school_interior_12
+    21300026: school_interior_13
+    21300028: school_interior_14
+    21300030: school_interior_15
+    21300032: school_interior_16
+    21300034: school_interior_17
+    21300036: school_interior_18
+    21300038: school_interior_19
+    21300040: school_interior_20
+    21300042: school_interior_21
+    21300044: school_interior_22
+    21300046: school_interior_23
+    21300048: school_interior_24
+    21300050: school_interior_25
+    21300052: school_interior_26
+    21300054: school_interior_27
+    21300056: school_interior_28
+    21300058: school_interior_29
+    21300060: school_interior_30
+    21300062: school_interior_31
+    21300064: school_interior_32
+    21300066: school_interior_33
+    21300068: school_interior_34
+    21300070: school_interior_35
+    21300072: school_interior_36
+    21300074: school_interior_37
+    21300076: school_interior_38
+    21300078: school_interior_39
+    21300080: school_interior_40
+    21300082: school_interior_41
+    21300084: school_interior_42
+    21300086: school_interior_43
+    21300088: school_interior_44
+    21300090: school_interior_45
+    21300092: school_interior_46
+    21300094: school_interior_47
+    21300096: school_interior_48
+    21300098: school_interior_49
+    21300100: school_interior_50
+    21300102: school_interior_51
+    21300104: school_interior_52
+    21300106: school_interior_53
+    21300108: school_interior_54
+    21300110: school_interior_55
+    21300112: school_interior_56
+    21300114: school_interior_57
+    21300116: school_interior_58
+    21300118: school_interior_59
+    21300120: school_interior_60
+    21300122: school_interior_61
+    21300124: school_interior_62
+    21300126: school_interior_63
+    21300128: school_interior_64
+    21300130: school_interior_65
+    21300132: school_interior_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: school_interior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 221
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 17.5}
+        - {x: -32, y: -13.5}
+        - {x: -31, y: -17.5}
+        - {x: 32, y: -17.5}
+        - {x: 32, y: 17.5}
+    - name: school_interior_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 18}
+        - {x: -32, y: -13}
+        - {x: -31, y: -18}
+        - {x: 32, y: -18}
+        - {x: 32, y: 18}
+    - name: school_interior_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 224
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 176
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 17}
+        - {x: -33, y: -17}
+        - {x: 33, y: -17}
+        - {x: 33, y: 17}
+    - name: school_interior_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 176
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 176
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 176
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 141
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: school_interior_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: school_interior_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 109
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: school_interior_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 153
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 138
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 113
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 124
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 93
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 108
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 86
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 84
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 84
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 85
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 86
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 83
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 53
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_27
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 65
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 63
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 16, y: 22.5}
+    - name: school_interior_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19.5}
+        - {x: -16, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 19.5}
+    - name: school_interior_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19.5}
+        - {x: -16, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 19.5}
+    - name: school_interior_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -19.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 16.5, y: 19.5}
+    - name: school_interior_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22}
+        - {x: -17.5, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 19}
+        - {x: 10.5, y: 22}
+    - name: school_interior_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: school_interior_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 68
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 46
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 46
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 16, y: 22.5}
+    - name: school_interior_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16.5}
+        - {x: -32, y: -16.5}
+        - {x: 32, y: -16.5}
+        - {x: 32, y: 16.5}
+    - name: school_interior_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 113
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 113
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 91
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 87
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 92
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 92
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_60
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 92
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: school_interior_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 178
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: school_interior_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 218
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 19}
+        - {x: -32, y: -19}
+        - {x: 29, y: -19}
+        - {x: 32, y: -15}
+        - {x: 32, y: 19}
+    - name: school_interior_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 222
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 17}
+        - {x: -32, y: -16}
+        - {x: -31, y: -17}
+        - {x: 31, y: -17}
+        - {x: 32, y: -16}
+        - {x: 32, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
